@@ -1,4 +1,4 @@
-FROM hypriot/rpi-node
+FROM arm32v7/node
 
 WORKDIR /opt/raspi-mon
 

@@ -4,7 +4,6 @@ WORKDIR /opt/raspi-mon
 
 COPY package.json .
 
-RUN npm install
 
 COPY . .
 

@@ -1,4 +1,4 @@
-FROM node:boron
+FROM hypriot/rpi-node
 
 WORKDIR /opt/raspi-mon
 

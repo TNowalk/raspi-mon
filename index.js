@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const http = require('http');
 
 const hostname = 'bramble-n1.local';

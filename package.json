@@ -1,0 +1,19 @@
+{
+  "name": "raspi-mon",
+  "version": "1.0.0",
+  "description": "Simple Raspberry Pi monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNowalk/raspi-mon.git"
+  },
+  "author": "Trevor Nowalk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TNowalk/raspi-mon/issues"
+  },
+  "homepage": "https://github.com/TNowalk/raspi-mon#readme"
+}

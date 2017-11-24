@@ -1,4 +1,5 @@
-FROM arm32v7/node:9.2
+#FROM arm32v7/node:9.2
+FROM resin/raspberrypi3-node:slim
 
 WORKDIR /opt/raspi-mon
 

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TNowalk/raspi-mon/issues"
   },
-  "homepage": "https://github.com/TNowalk/raspi-mon#readme"
+  "homepage": "https://github.com/TNowalk/raspi-mon#readme",
+  "dependencies": {
+    "raspi-sonar": "github:tnowalk/raspi-sonar"
+  }
 }
